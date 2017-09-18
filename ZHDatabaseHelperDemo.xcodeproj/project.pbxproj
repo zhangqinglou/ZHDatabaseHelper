@@ -530,7 +530,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = H85C9Q2W88;
-				INFOPLIST_FILE = ZHDatabaseHelperDemo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Classes/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.zql.ZHDatabaseHelperDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -543,7 +543,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = H85C9Q2W88;
-				INFOPLIST_FILE = ZHDatabaseHelperDemo/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Classes/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.zql.ZHDatabaseHelperDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
