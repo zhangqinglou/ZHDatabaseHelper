@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ZHDatabaseHelper"
-  s.version      = “1.0”
+  s.version      = "1.0"
   s.summary      = "ZHDatabaseHelper 是IOS开发数据库工具类，创建多用户数据库，用户之间切换时进行数据库切换。封装了对数据表结构的创建和字段更新，以数据表定义版本，在版本升级时使用SQL来更新字段。"
 
   # This description is used to generate tags and improve search results.
@@ -52,7 +52,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { “zhangqinglou” => “zhangyi1288@163.com” }
+  s.author             = { "zhangqinglou" => "zhangyi1288@163.com" }
   # Or just: s.author    = ""
   # s.authors            = { "" => "" }
   # s.social_media_url   = "http://twitter.com/"
@@ -64,7 +64,7 @@ Pod::Spec.new do |s|
   #
 
   # s.platform     = :ios
-  s.platform     = :ios, “8.0”
+  s.platform     = :ios, "8.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
